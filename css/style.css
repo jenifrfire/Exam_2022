@@ -1,0 +1,58 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #000;
+    background-color: #fff;
+}
+.conteiner {
+    max-width: 1300px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1500px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.block_words{
+    margin: 40px 0;
+}
+.promit{
+    color: #000;
+    line-height: 36px;
+}
+.words_of_word{
+    font-size: 26px;
+    line-height: 33px;
+    margin: 32px 0px 100px 0px;
+}
+.propel{
+    color: #000;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32%;
+}
+.card{
+    width: 33.3333%;
+}
+.disepard_images{
+    display: none;
+}
+.card_text_important{
+    color: #000;
+    font-weight: 800;
+}
+
+.block_of_img{
+    box-sizing: border-box;
+}
+.block_of_img img{
+    width: 100%;
+}
